@@ -1,4 +1,4 @@
-<p align ="center">< target="_blank"><img src="C:\Users\guilh\Documents\GitHub\Guilherme_Achilles_embarcatech_HBr_2025\assets\imagem-guilhermeAchilles-embarcatech-readme.png" width="400" alt="Laravel Logo"></a></p>
+<p align ="center">< target="_blank"><img src="assets/imagem-guilhermeAchilles-embarcatech-readme.png" width="400" alt="Laravel Logo"></a></p>
 <p align="center">
     
 </p align="center">
