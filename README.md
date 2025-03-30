@@ -15,5 +15,5 @@ Este repositório é destinado a guardar e disponibilizar todos os projetos dese
 Todos os projetos utilizam a placa [BITDOGLAB](https://github.com/BitDogLab/BitDogLab).
 
 # Liçencas
-i
+
 Os codigós desenvolvdos nesse repositório são de uso livre, conforme a [MIT license](https://opensource.org/licenses/MIT).
