@@ -1,5 +1,5 @@
-<p align ="center">< target="_blank"><img src="assets/imagem-inicial-readme.png" width="400" alt="Laravel Logo"></a></p>
-<p align="center">
+<p align ="center">< target="_blank"><img src="assets/imagem-inicial-readme.png" width="400" alt="Laravel Logo"></p>
+
     
 </p align="center">
     <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025"
