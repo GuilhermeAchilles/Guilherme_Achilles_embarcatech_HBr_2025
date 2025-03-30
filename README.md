@@ -18,4 +18,4 @@ Todos os projetos utilizam a placa [BITDOGLAB](https://github.com/BitDogLab/BitD
 
 # Liçencas
 
-Os codigós desenvolvdos nesse repositório são de uso livre, conforme a [MIT license](https://opensource.org/licenses/MIT).
+Os códigos desenvolvidos nesse repositório são de uso livre, conforme a [MIT license](https://opensource.org/licenses/MIT).
