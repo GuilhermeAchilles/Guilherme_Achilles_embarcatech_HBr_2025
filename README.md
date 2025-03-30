@@ -6,14 +6,14 @@
      width="100px">
 </p>
 
-#Sobre o Repositório
+# Sobre o Repositório
 
 Este repositório é destinado a guardar e disponibilizar todos os projetos desenvolvidos durante a residência de sistemas embarcados (EMBARCATECH).
 
-#Plataforma Utilizada 
+# Plataforma Utilizada 
 
 Todos os projetos utilizam a placa [BITDOGLAB](https://github.com/BitDogLab/BitDogLab).
 
-#Liçencas
+# Liçencas
 i
 Os codigós desenvolvdos nesse repositório são de uso livre, conforme a [MIT license](https://opensource.org/licenses/MIT).
