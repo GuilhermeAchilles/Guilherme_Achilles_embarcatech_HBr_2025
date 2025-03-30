@@ -3,7 +3,7 @@
 
 </p align="center">
     <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025"
-     width="200px">
+     width="50px">
 </p>
 
 #Sobre o Repositório
