@@ -1,7 +1,7 @@
 <p align ="center"><img src="assets/imagem-inicial-readme.png" width="400" alt="Imagem Inicial"></p>
 
 
-</p align = "center">
+<p align = "center">
     <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025"
      width="100px">
 </p>
