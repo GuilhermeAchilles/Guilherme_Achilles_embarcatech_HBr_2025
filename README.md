@@ -2,7 +2,7 @@
 
 
 <p align = "center">
- ![GitHub License](https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025)
+ [GitHub License](https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025)
 </p>
 
 # Sobre o Repositório
