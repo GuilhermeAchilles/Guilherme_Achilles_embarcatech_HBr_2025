@@ -1,9 +1,7 @@
 <p align ="center"><img src="assets/imagem-inicial-readme.png" width="400" alt="Imagem Inicial"></p>
 
 
-<p align = "center">
- [GitHub License]https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025
-</p>
+ ![GitHub License](https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025)
 
 # Sobre o Repositório
 
