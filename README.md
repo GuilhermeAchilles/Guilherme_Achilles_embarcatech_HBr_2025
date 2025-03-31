@@ -17,11 +17,11 @@ Todos os projetos utilizam a placa [BITDOGLAB](https://github.com/BitDogLab/BitD
 
 A placa possui resumidamente:
 
-- 1x microcontrolador RP2040  
-- 1x Analógico  
-- 1x Matriz de LED endereçável 5x5  
-- 1x Display OLED  
-- 2x Push Buttons  
+- 1x - microcontrolador RP2040  
+- 1x - Analógico  
+- 1x - Matriz de LED endereçável 5x5  
+- 1x - Display OLED  
+- 2x - Push Buttons  
 
 
 <p align ="center"><img src="assets/bitdoglab.jpeg" width="400" alt="Imagem da BitDogLab"></p>
