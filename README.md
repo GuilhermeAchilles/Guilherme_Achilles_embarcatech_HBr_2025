@@ -2,7 +2,7 @@
 
 
 <p align = "center">
-    <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025"
+    <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025](https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025"
      width="100px">
 </p>
 
@@ -17,5 +17,4 @@ Todos os projetos utilizam a placa [BITDOGLAB](https://github.com/BitDogLab/BitD
 <p align ="center"><img src="assets/bitdoglab.jpeg" width="400" alt="Imagem da BitDogLab"></p>
 
 # Liçencas
-
-Os códigos desenvolvidos nesse repositório são de uso livre, conforme a [MIT license](https://opensource.org/licenses/MIT).
+GPL - 3.0
