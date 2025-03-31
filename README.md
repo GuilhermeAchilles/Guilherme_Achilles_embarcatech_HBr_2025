@@ -1,23 +1,21 @@
-# Projetos de Sistemas Embarcados - EmbarcaTech 2025
+<p align ="center"><img src="assets/imagem-inicial-readme.png" width="400" alt="Imagem Inicial"></p>
 
-Autor: **(insira seu nome)**
 
-Curso: Residência Tecnológica em Sistemas Embarcados
+<p align = "center">
+    <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025"
+     width="100px">
+</p>
 
-Instituição: EmbarcaTech - HBr
+# Sobre o Repositório
 
-Campinas, março de 2025
+Este repositório é destinado a guardar e disponibilizar todos os projetos desenvolvidos durante a residência de sistemas embarcados - EMBARCATECH.
 
----
+# Plataforma Utilizada 
 
-## Sobre este repositório
+Todos os projetos utilizam a placa [BITDOGLAB](https://github.com/BitDogLab/BitDogLab).
 
-Este repositório reúne os projetos desenvolvidos ao longo do curso de Sistemas Embarcados, durante a etapa de residência.  
+<p align ="center"><img src="assets/bitdoglab.jpeg" width="400" alt="Imagem da BitDogLab"></p>
 
-Cada projeto tem sua própria pasta, contendo o código-fonte, documentação e recursos visuais.
+# Liçencas
 
----
-
-## O que fazer com este arquivo
-
-Ao fazer o *fork* do repositório, o aluno está livre para modificar este arquivo como quiser dentro do seu próprio *fork*.
+Os códigos desenvolvidos nesse repositório são de uso livre, conforme a [MIT license](https://opensource.org/licenses/MIT).
