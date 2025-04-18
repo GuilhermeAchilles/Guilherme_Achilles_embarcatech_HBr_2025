@@ -1,6 +1,6 @@
 # Contador com Botões e Display OLED  - Raspberry Pi Pico, usando a plataforma BITDOGLAB
 
-Este projeto implementa um **contador decrescente** com controle por botões e visualização em um **display OLED SSD1306**. Ele utiliza a **Raspberry Pi Pico**, **interrupções por GPIO** e um **timer repetitivo** para controle de tempo.
+Este projeto implementa um **contador decrescente** com controle por botões e visualização em um **display OLED SSD1306**. Ele utiliza a **Raspberry Pi Pico**, que está integrada na placa **BITDOGLAB**, **interrupções por GPIO** e um **timer repetitivo** para controle de tempo.
 
 ---
 
