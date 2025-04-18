@@ -1,4 +1,4 @@
-# Monitor de Temperatura Interna da Raspberry Pi Pico com Display OLED
+# Monitor de Temperatura Interna da Raspberry Pi Pico com Display OLED usando a placa BITDOGLAB
 
 Este projeto lê a temperatura interna da **Raspberry Pi Pico** utilizando seu **sensor interno de temperatura via ADC**, processa uma média móvel e exibe o valor em tempo real em um **display OLED SSD1306** via comunicação **I2C**.
 
