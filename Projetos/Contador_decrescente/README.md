@@ -6,7 +6,7 @@ Este projeto implementa um **contador decrescente** com controle por botões e v
 
 ## 📷 Foto do Projeto
 
-<p align ="center"><img src="Projetos/Contador_decrescente/assets/imagem_projeto_contador.jpeg" width="400" alt="Imagem da BitDogLab"></p>
+<p align ="center"><img src="https://github.com/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025/blob/main/Projetos/Contador_decrescente/assets/imagem_projeto_contador.jpeg?raw=true" width="400" alt="Imagem da BitDogLab"></p>
 
 ---
 
