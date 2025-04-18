@@ -6,7 +6,7 @@ Este projeto utiliza a **Raspberry Pi Pico**, que está integrada na palca da **
 
 ## 📷 Foto do Projeto
 
-<p align ="center"><img src="https://github.com/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025/blob/main/Projetos/Leitura_Sinal_Joystick/assets/imagem_projeto_joystick.jpeg?raw=true" width="400" alt="Imagem da BitDogLab"></p>
+<p align ="center"><img src="https://github.com/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025/blob/main/Projetos/Leitura_Sinal_Joystick/assets/imagem_projeto_joystick.jpeg?raw=true" width="800" alt="Imagem da BitDogLab"></p>
 
 ---
 
