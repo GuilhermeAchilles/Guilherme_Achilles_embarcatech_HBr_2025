@@ -1,4 +1,4 @@
-# Leitura de Joystick com Filtro de Média Móvel - Raspberry Pi Pico
+# Leitura de Joystick com Filtro de Média Móvel - Raspberry Pi Pico, Usando a plataforma BITDOGLAB
 
 Este projeto utiliza a **Raspberry Pi Pico** para ler os eixos X e Y de um **joystick analógico** usando o **ADC interno**, aplicar um **filtro de média móvel**, e exibir os valores suavizados em um **display OLED SSD1306 via I2C**.
 
