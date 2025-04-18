@@ -92,10 +92,10 @@ int main()
         if (media_anterior_x != media_x || media_anterior_y != media_y)
         {
             ssd1306_clear(&disp);
-            exibir_texto_sem_apagar(&disp, &text_2, 1, 0, 36, 1);
-            exibir_texto_sem_apagar(&disp, &text_4, 1, 72, 36, 1);
-            exibir_texto_sem_apagar(&disp, &text_1, 1, 0, 18, 1);
-            exibir_texto_sem_apagar(&disp, &text_3, 1, 72, 18, 1);
+            exibir_texto_sem_apagar(&disp, text_2, 1, 0, 36, 1);
+            exibir_texto_sem_apagar(&disp, text_4, 1, 72, 36, 1);
+            exibir_texto_sem_apagar(&disp, text_1, 1, 0, 18, 1);
+            exibir_texto_sem_apagar(&disp, text_3, 1, 72, 18, 1);
             ssd1306_show(&disp);
 
             media_anterior_x = media_x;
