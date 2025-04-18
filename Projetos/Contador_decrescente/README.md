@@ -6,9 +6,7 @@ Este projeto implementa um **contador decrescente** com controle por botões e v
 
 ## 📷 Foto do Projeto
 
-> *(Insira uma imagem do seu projeto aqui)*  
-> Exemplo:
-> ![Foto do Projeto](caminho/para/sua/imagem.jpg)
+<p align ="center"><img src="Projetos/Contador_decrescente/assets/imagem_projeto_contador.jpeg" width="400" alt="Imagem da BitDogLab"></p>
 
 ---
 
