@@ -2,7 +2,7 @@
 
 
 <p align = "center">
-    <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025"
+    <img src="https://img.shields.io/github/license/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025?cacheSeconds=3600"
      width="100px">
 </p>
 
