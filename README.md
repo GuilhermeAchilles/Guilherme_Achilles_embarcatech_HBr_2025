@@ -14,7 +14,7 @@ Este repositório é destinado a guardar e disponibilizar todos os projetos dese
 
 Todos os projetos utilizam a placa [BITDOGLAB](https://github.com/BitDogLab/BitDogLab).
 
-<p align ="center"><img src="assets/bitdoglab.jpeg" width="400" alt="Imagem da BitDogLab"></p>
+<p align ="center"><img src="assets/placa_bitdoglab.jpeg" width="400" alt="Imagem da BitDogLab"></p>
 
 # Liçencas
 
