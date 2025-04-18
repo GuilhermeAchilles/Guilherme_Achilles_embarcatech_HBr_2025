@@ -83,9 +83,9 @@ int main() {
             sprintf(buffer_temperature, "%.2f", avg);
             char *text_3[] = {buffer_temperature};
             ssd1306_clear(&disp);
-            exibir_texto_sem_apagar(&disp, &text_1, 1, 20, 16, 1);
-            exibir_texto_sem_apagar(&disp, &text_2, 1, 70, 32, 2);
-            exibir_texto_sem_apagar(&disp, &text_3, 1, 25, 32, 2);
+            exibir_texto_sem_apagar(&disp, text_1, 1, 20, 16, 1);
+            exibir_texto_sem_apagar(&disp, text_2, 1, 70, 32, 2);
+            exibir_texto_sem_apagar(&disp, text_3, 1, 25, 32, 2);
             ssd1306_show(&disp);
         }
         sleep_ms(50);
