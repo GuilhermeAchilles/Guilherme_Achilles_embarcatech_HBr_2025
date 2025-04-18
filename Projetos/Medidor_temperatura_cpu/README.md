@@ -72,4 +72,5 @@ Este projeto lê a temperatura interna da **Raspberry Pi Pico** utilizando seu *
 
 ## 📦 Como Compilar
 
-Certifique-se de que você tenha o [SDK do Raspberry Pi Pico Versão 1.5.1]
+1. Certifique-se de que você tenha o [SDK do Raspberry Pi Pico Versão 1.5.1].
+2. Certifique-se de que o arquivo `ssd1306.h` está incluído no projeto.
