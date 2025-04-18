@@ -6,10 +6,7 @@ Este projeto lê a temperatura interna da **Raspberry Pi Pico**, que está integ
 
 ## 📷 Foto do Projeto
 
-> *(Insira uma imagem do seu projeto aqui)*  
-> Exemplo:
-> ![Foto do Projeto](caminho/para/sua/imagem.jpg)
-
+<p align ="center"><img src= "https://github.com/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025/blob/main/Projetos/Medidor_temperatura_cpu/assets/imagem_projeto_temperatura.jpeg?raw=true" width="800" alt="Imagem da BitDogLab"></p>
 ---
 
 ## 🧠 Funcionalidades
