@@ -6,28 +6,28 @@
 Projeto de teste unitário para verificação da conversão de valores ADC para temperatura em Celsius usando o framework Unit
 
 ---
+### 📁 Estrutura do Projeto
 
-## 📁 Estrutura do Projeto
-
+```text
 teste_unitario_temperatura/
-├── app/ # Ponto de entrada com a função main()
-│ └── main.c
-├── drivers/ # Drivers de hardware específicos
-│ └── temperature_sensor.c
-├── hal/ # Camada de abstração de hardware (HAL)
-│ └── ler_temperatura.c
-├── include/ # Arquivos de cabeçalho públicos
-│ ├── ler_temperatura.h
-│ └── temperature_sensor.h
-├── src/ # Framework Unity e dependências
-│ ├── unity.c
-│ ├── unity.h
-│ └── unity_internals.h
-├── test/ # Testes unitários
-│ └── test_hal_temperature.c
-├── meson.build # Sistema de build (Meson)
-└── .gitignore # Arquivos ignorados pelo Git
-
+├── app/                       # Ponto de entrada com a função main()
+│   └── main.c
+├── drivers/                   # Drivers de hardware específicos
+│   └── temperature_sensor.c
+├── hal/                       # Camada de abstração de hardware (HAL)
+│   └── ler_temperatura.c
+├── include/                   # Arquivos de cabeçalho públicos
+│   ├── ler_temperatura.h
+│   └── temperature_sensor.h
+├── src/                       # Framework Unity e dependências
+│   ├── unity.c
+│   ├── unity.h
+│   └── unity_internals.h
+├── test/                      # Testes unitários
+│   └── test_hal_temperature.c
+├── meson.build                # Sistema de build (Meson)
+└── .gitignore                 # Arquivos ignorados pelo Git
+```
 
 ---
 
