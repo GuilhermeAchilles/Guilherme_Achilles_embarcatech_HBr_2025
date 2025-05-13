@@ -418,7 +418,7 @@ Distribuição **simétrica**, aproximando uma **binomial equilibrada**.
 
 ### ⬅️ 2. Tendência à Esquerda (`tendencie = -5.0`)
 
-<p align ="center"><img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-GuilhermeAchilles/blob/main/assets/resultado_3.PNG?raw=true" width="400" alt="Imagem da BitDogLab"></p>
+<p align ="center"><img src="https://github.com/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025/blob/main/Projetos/galton_board_u1/assets/i_resultado_3.PNG?raw=true" width="400" alt="Imagem da BitDogLab"></p>
 
 #### 📊 Distribuição Esperada:
 
