@@ -435,7 +435,7 @@ Deslocamento da curva para a **esquerda**, com maior acúmulo nas posições ini
 
 ### ➡️ 3. Tendência à Direita (`tendencie = +5.0`)
 
-<p align ="center"><img src="https://github.com/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025/blob/main/Projetos/galton_board_u1/assets/i_resultado_2.PNG?raw=true" width="400" alt="Imagem da BitDogLab"></p>
+<p align ="center"><img src="https://github.com/GuilhermeAchilles/Guilherme_Achilles_embarcatech_HBr_2025/blob/main/Projetos/galton_board_u1/assets/resultado_2.PNG?raw=true" width="400" alt="Imagem da BitDogLab"></p>
 
 #### 📊 Distribuição Esperada:
 
