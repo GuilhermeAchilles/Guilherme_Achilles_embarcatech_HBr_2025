@@ -412,7 +412,7 @@ Distribuição **simétrica**, aproximando uma **binomial equilibrada**.
 > A distribuição segue o comportamento esperado de uma curva normal discreta centrada, com maior acúmulo no meio.
 
 
-<p align ="center"><img src="https://github.com/EmbarcaTech-2025/lab01_galton_board-GuilhermeAchilles/blob/main/assets/i_resultado_1.JPG?raw=true" width="400" alt="Imagem da BitDogLab"></p>
+<p align ="center"><img src="Projetos/galton_board_u1/assets/i_resultado_1.JPG" width="400" alt="Imagem da BitDogLab"></p>
 
 ---
 
